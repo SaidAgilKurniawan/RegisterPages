@@ -1,0 +1,16 @@
+F:\RegisterPages\obj\Debug\RegisterPages.csproj.AssemblyReference.cache
+F:\RegisterPages\obj\Debug\RegisterPages.csproj.SuggestedBindingRedirects.cache
+F:\RegisterPages\obj\Debug\MainWindow.g.cs
+F:\RegisterPages\obj\Debug\App.g.cs
+F:\RegisterPages\obj\Debug\RegisterPages_MarkupCompile.cache
+F:\RegisterPages\obj\Debug\RegisterPages_MarkupCompile.lref
+F:\RegisterPages\bin\Debug\RegisterPages.exe.config
+F:\RegisterPages\bin\Debug\RegisterPages.exe
+F:\RegisterPages\bin\Debug\RegisterPages.pdb
+F:\RegisterPages\obj\Debug\MainWindow.baml
+F:\RegisterPages\obj\Debug\RegisterPages.g.resources
+F:\RegisterPages\obj\Debug\RegisterPages.Properties.Resources.resources
+F:\RegisterPages\obj\Debug\RegisterPages.csproj.GenerateResource.cache
+F:\RegisterPages\obj\Debug\RegisterPages.csproj.CoreCompileInputs.cache
+F:\RegisterPages\obj\Debug\RegisterPages.exe
+F:\RegisterPages\obj\Debug\RegisterPages.pdb
