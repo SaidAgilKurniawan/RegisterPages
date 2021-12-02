@@ -1,2 +1,2 @@
 # RegisterPages
-Making Program for verification user via email or whatssapp
+Program for verification user via email or whatssapp
